@@ -65,3 +65,5 @@ brasil
 brazil
 usa
 directory
+posts
+post
